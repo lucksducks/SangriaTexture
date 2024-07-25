@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SangriaTexture">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SangriaTexture.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

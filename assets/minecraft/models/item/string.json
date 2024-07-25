@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/string"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 2001
+      },
+      "model": "minecraft:item/sangria/mob_drops/spider/teia_fosca"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2002
+      },
+      "model": "minecraft:item/sangria/mob_drops/spider/teia_reluzente"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2003
+      },
+      "model": "minecraft:item/sangria/mob_drops/spider/teia_magica"
+    }
+  ]
+}

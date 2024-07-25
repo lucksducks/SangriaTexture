@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/sangria/items/rings/wither_skeleton/anel_wither"
+  }
+}
