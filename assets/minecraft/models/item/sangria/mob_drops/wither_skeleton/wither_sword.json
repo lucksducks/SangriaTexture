@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "minecraft:item/sangria/items/swords/wither_skeleton/wither_sword"
+    "layer0": "minecraft:item/sangria/items/mob_drops/wither_skeleton/wither_sword"
   }   
 }

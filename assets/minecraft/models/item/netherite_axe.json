@@ -6,6 +6,12 @@
   "overrides": [
     {
       "predicate": {
+        "custom_model_data": 5005
+      },
+      "model": "minecraft:item/sangria/gameplay_events/arena/conquistador_de_estrelas"
+    },
+    {
+      "predicate": {
         "custom_model_data": 8007
       },
       "model": "minecraft:item/sangria/dungeons/blood/axe_blood"

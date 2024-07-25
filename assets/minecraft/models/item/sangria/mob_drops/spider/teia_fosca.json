@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/sangria/items/artifacts/spider/teia_fosca"
+    "layer0": "minecraft:item/sangria/items/mob_drops/spider/teia_fosca"
   }
 }

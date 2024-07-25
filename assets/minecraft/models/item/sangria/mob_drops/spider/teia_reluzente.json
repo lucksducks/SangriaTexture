@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/sangria/items/artifacts/spider/teia_reluzente"
+    "layer0": "minecraft:item/sangria/items/mob_drops/spider/teia_reluzente"
   }
 }

@@ -78,30 +78,7 @@
         "predicate": {
           "custom_model_data": 3001
         },
-        "model": "minecraft:item/sangria/mob_dropss/blaze/blaze_bow"
-      },
-      {
-        "predicate": {
-          "pulling": 1,
-          "custom_model_data": 3001
-        },
-        "model": "minecraft:item/sangria/mob_dropss/blaze/blaze_bow"
-      },
-      {
-        "predicate": {
-          "pulling": 1,
-          "pull": 0.65,
-          "custom_model_data": 3001
-        },
-        "model": "minecraft:item/sangria/mob_dropss/blaze/blaze_bow"
-      },
-      {
-        "predicate": {
-          "pulling": 1,
-          "pull": 0.9,
-          "custom_model_data": 3001
-        },
-        "model": "minecraft:item/sangria/mob_dropss/blaze/blaze_bow"
+        "model": "minecraft:item/sangria/mob_drops/blaze/blaze_bow"
       }
     ]
   }

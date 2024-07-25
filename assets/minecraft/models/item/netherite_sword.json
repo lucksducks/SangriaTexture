@@ -6,6 +6,12 @@
   "overrides": [
     {
       "predicate": {
+        "custom_model_data": 4005
+      },
+      "model": "minecraft:item/sangria/gameplay_events/dragon_hunt/lamina_do_nada"
+    },
+    {
+      "predicate": {
         "custom_model_data": 8006
       },
       "model": "minecraft:item/sangria/dungeons/blood/adaga_blood"

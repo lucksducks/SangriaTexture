@@ -1,7 +1,7 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "minecraft:item/sangria/items/bows/blaze/blaze_bow"
+        "layer0": "minecraft:item/sangria/items/mob_drops/blaze/blaze_bow"
     },
     "display": {
       "thirdperson_righthand": {
@@ -78,21 +78,21 @@
         "predicate": {
           "pulling": 1
         },
-        "model": "minecraft:item/sangria/items/bows/blaze/blaze_bow_p0"
+        "model": "minecraft:item/sangria/items/mob_drops/blaze/blaze_bow_p0"
       },
       {
         "predicate": {
           "pulling": 1,
           "pull": 0.65
         },
-        "model": "minecraft:item/sangria/items/bows/blaze/blaze_bow_p1"
+        "model": "minecraft:item/sangria/items/mob_drops/blaze/blaze_bow_p1"
       },
       {
         "predicate": {
           "pulling": 1,
           "pull": 0.9
         },
-        "model": "minecraft:item/sangria/items/bows/blaze/blaze_bow_p2"
+        "model": "minecraft:item/sangria/items/mob_drops/blaze/blaze_bow_p2"
       }
     ]
   }

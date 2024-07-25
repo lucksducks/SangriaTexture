@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/sangria/items/gameplay_events/arena/machado_arena"
+  }
+}
