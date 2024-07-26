@@ -76,12 +76,6 @@
   "overrides": [
     {
       "predicate": {
-        "custom_model_data": 3001
-      },
-      "model": "minecraft:item/sangria/mob_drops/blaze/blaze_bow"
-    },
-    {
-      "predicate": {
         "pulling": 1
       },
       "model": "minecraft:item/bow_pulling_0"
@@ -99,6 +93,39 @@
         "pull": 0.9
       },
       "model": "minecraft:item/bow_pulling_2"
+    },
+
+
+
+    {
+      "predicate": {
+        "custom_model_data": 3001
+      },
+      "model": "minecraft:item/sangria/mob_drops/blaze/blaze_bow"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "custom_model_data": 3001
+        
+      },
+      "model": "minecraft:item/sangria/mob_drops/blaze/blaze_bow_p0"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.65,
+        "custom_model_data": 3001
+      },
+      "model": "minecraft:item/sangria/mob_drops/blaze/blaze_bow_p1"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.9,
+        "custom_model_data": 3001
+      },
+      "model": "minecraft:item/sangria/mob_drops/blaze/blaze_bow_p2"
     }
   ]
 }

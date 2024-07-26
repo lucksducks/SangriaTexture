@@ -1,7 +1,7 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "minecraft:item/sangria/items/mob_drops/blaze/blaze_bow"
+        "layer0": "minecraft:item/sangria/items/mob_drops/blaze/blaze_bow_p0"
     },
     "display": {
       "thirdperson_righthand": {
