@@ -6,6 +6,12 @@
   "overrides": [
     {
       "predicate": {
+        "custom_model_data": 4008
+      },
+      "model": "minecraft:item/sangria/gameplay_events/dragon_hunt/algoz_da_finalidade"
+    },
+    {
+      "predicate": {
         "custom_model_data": 5005
       },
       "model": "minecraft:item/sangria/gameplay_events/arena/conquistador_de_estrelas"

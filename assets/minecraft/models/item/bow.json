@@ -101,7 +101,7 @@
       "predicate": {
         "custom_model_data": 3001
       },
-      "model": "minecraft:item/sangria/mob_drops/blaze/blaze_bow"
+      "model": "minecraft:item/sangria/mob_drops/blaze/estilhaco_flamejante/blaze_bow"
     },
     {
       "predicate": {
@@ -109,7 +109,7 @@
         "custom_model_data": 3001
         
       },
-      "model": "minecraft:item/sangria/mob_drops/blaze/blaze_bow_p0"
+      "model": "minecraft:item/sangria/mob_drops/blaze/estilhaco_flamejante/blaze_bow_p0"
     },
     {
       "predicate": {
@@ -117,7 +117,7 @@
         "pull": 0.65,
         "custom_model_data": 3001
       },
-      "model": "minecraft:item/sangria/mob_drops/blaze/blaze_bow_p1"
+      "model": "minecraft:item/sangria/mob_drops/blaze/estilhaco_flamejante/blaze_bow_p1"
     },
     {
       "predicate": {
@@ -125,7 +125,40 @@
         "pull": 0.9,
         "custom_model_data": 3001
       },
-      "model": "minecraft:item/sangria/mob_drops/blaze/blaze_bow_p2"
+      "model": "minecraft:item/sangria/mob_drops/blaze/estilhaco_flamejante/blaze_bow_p2"
+    },
+
+
+
+    {
+      "predicate": {
+        "custom_model_data": 4007
+      },
+      "model": "minecraft:item/sangria/gameplay_events/dragon_hunt/cacador_do_vazio/arco_end"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "custom_model_data": 4007
+        
+      },
+      "model": "minecraft:item/sangria/gameplay_events/dragon_hunt/cacador_do_vazio/arco_end_p0"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.65,
+        "custom_model_data": 4007
+      },
+      "model": "minecraft:item/sangria/gameplay_events/dragon_hunt/cacador_do_vazio/arco_end_p1"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.9,
+        "custom_model_data": 4007
+      },
+      "model": "minecraft:item/sangria/gameplay_events/dragon_hunt/cacador_do_vazio/arco_end_p2"
     }
   ]
 }
