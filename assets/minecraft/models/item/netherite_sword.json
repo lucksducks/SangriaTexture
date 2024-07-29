@@ -12,6 +12,12 @@
     },
     {
       "predicate": {
+        "custom_model_data": 5006
+      },
+      "model": "minecraft:item/sangria/gameplay_events/arena/arena_sword"
+    },
+    {
+      "predicate": {
         "custom_model_data": 8006
       },
       "model": "minecraft:item/sangria/dungeons/blood/adaga_blood"
