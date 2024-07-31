@@ -1,12 +1,17 @@
 {
     "providers": [
         {
+            "type": "space",
+            "advances": {
+            }
+        },
+        {
             "type": "bitmap",
-            "file": "minecraft:ranks/vipplusbyrg.png",
+            "file": "minecraft:ranks/adminbyrg.png",
             "ascent": 8,
             "height": 9,
             "chars": [""]
-	},
+        },
         {
             "type": "bitmap",
             "file": "minecraft:ranks/bluebyrg.png",
@@ -193,7 +198,7 @@
             "type": "bitmap",
             "file": "minecraft:ranks/vipbyrg.png",
             "ascent": 8,
-            "height": 8,
+            "height": 9,
             "chars": [""]
         },
         {
@@ -223,6 +228,13 @@
             "ascent": 8,
             "height": 8,
             "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/sangria/dungeons/treasure_reward.png",
+            "ascent": 68,
+            "height": 256,
+            "chars": [""]
         }
     ]
 }

@@ -2784,7 +2784,7 @@
     "container.furnace": "Fornalha",
     "container.grindstone_title": "Reparar e desencantar",
     "container.hopper": "Funil",
-    "container.inventory": "Inventário",
+    "container.inventory": "",
     "container.isLocked": "%s está trancado!",
     "container.lectern": "Atril",
     "container.loom": "Tear",
