@@ -3,6 +3,7 @@
         {
             "type": "space",
             "advances": {
+                "": -22
             }
         },
         {
@@ -231,8 +232,8 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:gui/sangria/dungeons/treasure_reward.png",
-            "ascent": 68,
+            "file": "minecraft:gui/sangria/dungeons/blood/blood_treasure_reward.png",
+            "ascent": 88,
             "height": 256,
             "chars": [""]
         }
