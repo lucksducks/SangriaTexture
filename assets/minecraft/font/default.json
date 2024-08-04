@@ -236,6 +236,13 @@
             "ascent": 88,
             "height": 256,
             "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/sangria/correio/correio.png",
+            "ascent": 88,
+            "height": 256,
+            "chars": [""]
         }
     ]
 }
