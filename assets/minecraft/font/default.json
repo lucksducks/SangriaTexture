@@ -232,6 +232,27 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:gui/sangria/action_bar/exhaustion.png",
+            "ascent": 13,
+            "height": 13,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/sangria/action_bar/combat.png",
+            "ascent": 13,
+            "height": 13,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/sangria/action_bar/ability.png",
+            "ascent": 13,
+            "height": 13,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:gui/sangria/dungeons/blood/blood_treasure_reward.png",
             "ascent": 88,
             "height": 256,
