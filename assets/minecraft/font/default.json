@@ -190,44 +190,44 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/twitchbyrg.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": [""]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:ranks/vipbyrg.png",
+            "file": "minecraft:ranks/prime.png",
             "ascent": 8,
             "height": 9,
             "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/vipplusbyrg.png",
+            "file": "minecraft:ranks/primeplus.png",
             "ascent": 8,
             "height": 9,
             "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/yellowbyrg.png",
-            "ascent": 8,
-            "height": 8,
+            "file": "minecraft:gui/sangria/rarity/incomum_icon.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/sangria/rarity/raro_icon.png",
+            "ascent": 9,
+            "height": 9,
             "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/youtubebyrg.png",
-            "ascent": 8,
-            "height": 8,
+            "file": "minecraft:gui/sangria/rarity/epico_icon.png",
+            "ascent": 9,
+            "height": 9,
             "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/memberbyrg.png",
-            "ascent": 8,
-            "height": 8,
+            "file": "minecraft:gui/sangria/rarity/lendario_icon.png",
+            "ascent": 9,
+            "height": 9,
             "chars": [""]
         },
         {
