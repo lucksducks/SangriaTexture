@@ -1,0 +1,87 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/paper"
+    },
+    "overrides": [
+      {
+        "predicate": {
+          "custom_model_data": 100
+        },
+        "model": "minecraft:item/sangria/gui/quests/unknown_quest"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 101
+        },
+        "model": "minecraft:item/sangria/gui/quests/exploration_quest"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 102
+        },
+        "model": "minecraft:item/sangria/gui/quests/combat_quest"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 103
+        },
+        "model": "minecraft:item/sangria/gui/quests/dungeon_quest"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 104
+        },
+        "model": "minecraft:item/sangria/gui/quests/crafting_quest"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 105
+        },
+        "model": "minecraft:item/sangria/gui/quests/dialogue_quest"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 106
+        },
+        "model": "minecraft:item/sangria/gui/quests/mechanic_quest"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 111
+        },
+        "model": "minecraft:item/sangria/gui/quests/exploration_quest_active"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 112
+        },
+        "model": "minecraft:item/sangria/gui/quests/combat_quest_active"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 113
+        },
+        "model": "minecraft:item/sangria/gui/quests/dungeon_quest_active"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 114
+        },
+        "model": "minecraft:item/sangria/gui/quests/crafting_quest_active"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 115
+        },
+        "model": "minecraft:item/sangria/gui/quests/dialogue_quest_active"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 116
+        },
+        "model": "minecraft:item/sangria/gui/quests/mechanic_quest_active"
+      }
+    ]
+}
+    
