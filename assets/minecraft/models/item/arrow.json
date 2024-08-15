@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/arrow"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "minecraft:item/sangria/gui/previous_page_button"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "minecraft:item/sangria/gui/next_page_button"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "minecraft:item/sangria/gui/previous_page_details_button"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "minecraft:item/sangria/gui/next_page_details_button"
+    }
+  ]
+}
