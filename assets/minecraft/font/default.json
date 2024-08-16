@@ -183,13 +183,6 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/tiktokbyrg.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": [""]
-        },
-        {
-            "type": "bitmap",
             "file": "minecraft:ranks/prime.png",
             "ascent": 8,
             "height": 9,
@@ -271,6 +264,13 @@
             "ascent": 63,
             "height": 256,
             "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/sangria/quests/detalhes_quests.png",
+            "ascent": 63,
+            "height": 256,
+            "chars": [""]
         }
     ]
 }
